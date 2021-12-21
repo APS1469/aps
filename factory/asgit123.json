@@ -1,0 +1,9 @@
+{
+	"name": "asgit123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f0b2c41-8757-435e-8829-8229b3412e1c",
+		"tenantId": "90e7d8c2-c24e-47f5-8887-19c3419b88b5"
+	}
+}
